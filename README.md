@@ -1,6 +1,13 @@
-# ![Hack their X](.github/emotivequote.jpg)
+<div style="text-align:center">
+  <img src=".github/hacking.gif" alt="SecurityNotFound" width="600">
+</div>
 
-## Table of contents
+---
+
+# ![Awesome](.github/awesome.svg) Hack their X
+
+
+## 📜 Table of contents
 
 * [Content](#content)
     * [Binaries](#hack-their-binaries)
@@ -14,7 +21,9 @@
 * [How to contribute](#how-to-contribute)
 * [Thanks to](#thanks-to)
 
-## Content
+---
+
+## 🗃️ Content
 
 ### Hack their `Binaries`
 
@@ -46,13 +55,13 @@
 
 
 
-## How to contribute
+## 📋 How to contribute
 
 + Submit new content: [Open a new issue](https://github.com/cosasdepuma/hack-their-x/issues/new)
 + Help me to review by leaving `comments` and `reactions`: [Pending submissions](https://github.com/cosasdepuma/hack-their-x/issues)
 
 
-## Thanks to
+## 🎉 Thanks to
 
 One of the most important things in any community, and more in ours, is to record who has helped you. That is why this is dedicated to you:
 
