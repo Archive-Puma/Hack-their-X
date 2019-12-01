@@ -10,7 +10,6 @@
     * [Binaries](#hack-their-binaries)
         * [Shellcodes](#shellcodes)
     * [Crypto](#hack-their-crypto)
-        * [Hashes](#hashes)
     * [Machine](#hack-their-machine)
         * [Privilege Escalation](#privilege-escalation)
     * [Web](#hack-their-web)
@@ -31,8 +30,8 @@
 
 ### Hack their `Cryto`
 
-#### Hashes
-
+1. [**Website**: quipqiup](https://quipqiup.com/)
+1. [**Website**: CyberChef](https://gchq.github.io/CyberChef/)
 1. [**Website**: HashKiller](https://hashkiller.co.uk/)
 
 
