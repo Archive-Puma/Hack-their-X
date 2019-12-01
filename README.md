@@ -7,6 +7,8 @@
 ## 📜 Table of contents
 
 * [Content](#content)
+    * [Account](#hack-their-account)
+        * [Leaks](#leaks)
     * [Binaries](#hack-their-binaries)
         * [Shellcodes](#shellcodes)
     * [Crypto](#hack-their-crypto)
@@ -20,6 +22,14 @@
 ---
 
 ## 🗃️ Content
+
+### Hack their `Account`
+
+#### Leaks
+
+1. [**Website**: Have I been pwned?](https://haveibeenpwned.com/)
+1. [**Website**: PwnDB (Deep Web)](https://pwndb2am4tzkvold.onion)
+1. [**Website**: PwnDB (Clear Web)](https://pwndb2am4tzkvold.tor2web.io/)
 
 ### Hack their `Binaries`
 
