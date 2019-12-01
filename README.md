@@ -6,22 +6,26 @@
 
 ## 📜 Table of contents
 
-* [Content](#content)
-    * [Account](#hack-their-account)
-        * [Leaks](#leaks)
-    * [Binaries](#hack-their-binaries)
-        * [Shellcodes](#shellcodes)
-    * [Crypto](#hack-their-crypto)
-    * [Machine](#hack-their-machine)
-        * [Privilege Escalation](#privilege-escalation)
-    * [Web](#hack-their-web)
-        * [SQLi](#sqli)
-* [How to contribute](#how-to-contribute)
-* [Thanks to](#thanks-to)
+* [Account](#hack-their-account)
+    * [Leaks](#leaks)
+* [Binaries](#hack-their-binaries)
+    * [Shellcodes](#shellcodes)
+* [Crypto](#hack-their-crypto)
+* [Machine](#hack-their-machine)
+    * [Privilege Escalation](#privilege-escalation)
+* [Web](#hack-their-web)
+    * [SQLi](#sqli)
+
+**Sections:**
+
+* [Table of contents](#📜-table-of-contents)
+* [Contents](#🗃️-contents)
+* [How to contribute](#📋-how-to-contribute)
+* [Thanks to](#🎉-thanks-to)
 
 ---
 
-## 🗃️ Content
+## 🗃️ Contents
 
 ### Hack their `Account`
 
