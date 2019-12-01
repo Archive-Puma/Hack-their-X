@@ -1,8 +1,8 @@
-<div style="text-align:center">
+<h2 align="center">
   <img src=".github/hacking.gif" alt="SecurityNotFound" width="600">
-</div>
-
----
+  <br>
+  <br>
+</h2>
 
 # ![Awesome](.github/awesome.svg) Hack their X
 
