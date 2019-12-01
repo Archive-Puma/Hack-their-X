@@ -2,23 +2,42 @@
 
 ## Table of contents
 
+* [Binaries](#hack-their-binaries)
+    * [Shellcodes](#shellcodes)
+* [Crypto](#hack-their-crypto)
+    * [Hashes](#hashes)
 * [Machine](#hack-their-machine)
-    * [Privilege Escalation](#baby_symbol-privilege-escalation)
+    * [Privilege Escalation](#privilege-escalation)
 * [Web](#hack-their-web)
-    * [SQLi](#information_source-sqli)
+    * [SQLi](#sqli)
 
 ## Content
 
+## Hack their `Binaries`
+
+### Shellcodes
+
+1. [**Website**: Shell-Storm](http://shell-storm.org/shellcode/)
+
+
+## Hack their `Cryto`
+
+### Hashes
+
+1. [**Website**: HashKiller](https://hashkiller.co.uk/)
+
+
 ## Hack their `Machine`
 
-### :baby_symbol: Privilege Escalation
+### Privilege Escalation
 
 1. [**Script**: LinEnum.sh](https://github.com/rebootuser/LinEnum)
 1. [**Website**: GTFOBins](https://gtfobins.github.io/)
 
+
 ## Hack their `Web`
 
-### :information_source: SQLi
+### SQLi
 
 1. [**Paper**: Full SQL Injection Tutorial (MySQL)](https://www.exploit-db.com/papers/13045) 
 
