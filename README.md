@@ -8,11 +8,14 @@
 
 * [Account](#hack-their-account)
     * [Leaks](#leaks)
+* [Anonymous](#hack-being-anonymous-but-not-hacktivist)
+    * [VPS](#vps)
 * [Binaries](#hack-their-binaries)
     * [Shellcodes](#shellcodes)
 * [Crypto](#hack-their-crypto)
 * [Machine](#hack-their-machine)
     * [Privilege Escalation](#privilege-escalation)
+* [Toolkit](#hack-with-this-toolkit)
 * [Web](#hack-their-web)
     * [SQLi](#sqli)
 
@@ -34,6 +37,14 @@
 1. [**Website**: Have I been pwned?](https://haveibeenpwned.com/)
 1. [**Website**: PwnDB (Deep Web)](https://pwndb2am4tzkvold.onion)
 1. [**Website**: PwnDB (Clear Web)](https://pwndb2am4tzkvold.tor2web.io/)
+
+
+### Hack being `Anonymous` (but not hacktivist)
+
+#### VPS
+
+1. [**Website**: SADD](https://sadd.io/)
+
 
 ### Hack their `Binaries`
 
@@ -57,7 +68,24 @@
 1. [**Website**: GTFOBins](https://gtfobins.github.io/)
 
 
+### Hack with this `Toolkit`
+
+1. [**Website**: KitPloit](https://www.kitploit.com/)
+1. [**Repository**: CTF Katana](https://github.com/JohnHammond/ctf-katana)
+
+
 ### Hack their `Web`
+
+#### Search Engine
+
+1. [**Website**: Shodan](https://www.shodan.io/)
+1. [**Website**: Shodan 2000](https://2000.shodan.io/)
+1. [**Website**: Wayback Machine](https://archive.org/)
+1. [**Website**: Censys](https://censys.io/)
+1. [**Website**: ZoomEye](https://www.zoomeye.org/)
+1. [**Website**: FOFA](https://fofa.so/)
+1. [**Website**: Rootkit_Pentester CSE](https://cse.google.com/cse?cx=012209864558240645678:orirysy9yqk)
+
 
 #### SQLi
 
