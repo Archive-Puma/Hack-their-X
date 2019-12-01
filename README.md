@@ -4,9 +4,6 @@
   <br>
 </h2>
 
-# ![Awesome](.github/awesome.svg) Hack their X
-
-
 ## 📜 Table of contents
 
 * [Content](#content)
