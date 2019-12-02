@@ -9,6 +9,7 @@
 * [Account](#hack-their-account)
     * [Leaks](#leaks)
 * [Anonymous](#hack-being-anonymous-but-not-hacktivist)
+    * [IP Logger](#ip-logger)
     * [VPS](#vps)
 * [Binaries](#hack-their-binaries)
     * [Shellcodes](#shellcodes)
@@ -40,6 +41,10 @@
 
 
 ### Hack being `Anonymous` (but not hacktivist)
+
+#### IP Logger
+
+1. [**Website**: Grabify](https://grabify.link/)
 
 #### VPS
 
