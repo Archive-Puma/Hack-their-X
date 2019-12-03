@@ -87,7 +87,7 @@
 #### CTF
 
 1. [**Website**: CTF Time](https://ctftime.org/)
-1. [**Website**: HackTheBox [EU]](https://www.hackthebox.eu/)
+1. [**Website**: HackTheBox 🇪🇺](https://www.hackthebox.eu/)
 1. [**Website**: Hack Me](https://hack.me/)
 1. [**Website**: PicoCTF](https://picoctf.com/)
 1. [**Website**: OverTheWire](https://overthewire.org/wargames/)
@@ -137,7 +137,7 @@
 #### Dorks
 
 1. [**Website**: Exploit-DB](https://www.exploit-db.com/google-hacking-database)
-1. [**Post**: Rootkit_Pentester](https://underc0de.org/foro/profile/?area=showposts;sa=topics;u=63386)
+1. [**Post**: Rootkit_Pentester :es:](https://underc0de.org/foro/profile/?area=showposts;sa=topics;u=63386)
 
 #### Search Engine
 
