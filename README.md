@@ -159,7 +159,7 @@
 
 ## 📋 How to contribute
 
-+ Submit new content: [Open a new issue](https://github.com/cosasdepuma/hack-their-x/issues/new)
++ Submit new content: [Open a new issue](https://github.com/cosasdepuma/hack-their-x/issues/new/choose)
 + Help me to review by leaving `comments` and `reactions`: [Pending submissions](https://github.com/cosasdepuma/hack-their-x/issues)
 
 
