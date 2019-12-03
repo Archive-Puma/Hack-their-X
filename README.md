@@ -9,12 +9,17 @@
 * [Account](#hack-their-account)
     * [Leaks](#leaks)
 * [Anonymous](#hack-being-anonymous-but-not-hacktivist)
-    * [IP Logger](#ip-logger)
+    * [Anonymize](#anonymize)
+    * [Deanonymize](#deanonymize)
     * [VPS](#vps)
 * [Binaries](#hack-their-binaries)
     * [Shellcodes](#shellcodes)
 * [Crypto](#hack-their-crypto)
+* [Knowledge](#hack-with-knowledge)
+    * [CTF](#ctf)
+    * [University](#university)
 * [Machine](#hack-their-machine)
+    * [Exploitation](#exploitation)
     * [Privilege Escalation](#privilege-escalation)
 * [Toolkit](#hack-with-this-toolkit)
 * [Web](#hack-their-web)
@@ -42,7 +47,15 @@
 
 ### Hack being `Anonymous` (but not hacktivist)
 
-#### IP Logger
+#### Anonymize
+
+1. [**Website**: Anon.to Redirect and URL Shortener](https://anon.to/)
+1. [**Website**: TempMail](https://temp-mail.org/)
+1. [**Website**: Tempail](https://tempail.com/)
+1. [**Website**: TempMailAddress](https://www.tempmailaddress.com/)
+1. [**Website**: SendAnonymousEmail](http://www.sendanonymousemail.net/)
+
+#### De-Anonymize
 
 1. [**Website**: Grabify](https://grabify.link/)
 
@@ -55,6 +68,7 @@
 
 #### Shellcodes
 
+1. [**Website**: Exploit-DB](https://www.exploit-db.com/shellcodes)
 1. [**Website**: Shell-Storm](http://shell-storm.org/shellcode/)
 
 
@@ -65,7 +79,30 @@
 1. [**Website**: HashKiller](https://hashkiller.co.uk/)
 
 
+### Hack with `Knowledge`
+
+#### CTF
+
+1. [**Website**: CTF Time](https://ctftime.org/)
+1. [**Website**: HackTheBox [EU]](https://www.hackthebox.eu/)
+1. [**Website**: Hack Me](https://hack.me/)
+1. [**Website**: PicoCTF](https://picoctf.com/)
+1. [**Website**: OverTheWire](https://overthewire.org/wargames/)
+1. [**Website**: Atenea](https://atenea.ccn-cert.cni.es/)
+
+#### University
+
+1. [**Paper**: Exploit-DB](https://www.exploit-db.com/papers)
+1. [**Repository**: Bugcrowd University](https://github.com/bugcrowd/bugcrowd_university)
+1. [**Repository**: Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+1. [**Repository**: h4cker](https://github.com/The-Art-of-Hacking/h4cker)
+
+
 ### Hack their `Machine`
+
+#### Exploitation
+
+1. [**Website**: Exploit-DB](https://www.exploit-db.com/)
 
 #### Privilege Escalation
 
@@ -77,9 +114,15 @@
 
 1. [**Website**: KitPloit](https://www.kitploit.com/)
 1. [**Repository**: CTF Katana](https://github.com/JohnHammond/ctf-katana)
+1. [**Repository**: h4cker](https://github.com/The-Art-of-Hacking/h4cker)
 
 
 ### Hack their `Web`
+
+#### Dorks
+
+1. [**Website**: Exploit-DB](https://www.exploit-db.com/google-hacking-database)
+1. [**Post**: Rootkit_Pentester](https://underc0de.org/foro/profile/?area=showposts;sa=topics;u=63386)
 
 #### Search Engine
 
@@ -112,4 +155,4 @@ One of the most important things in any community, and more in ours, is to recor
 
 | Avatar | Name | Contribution |
 | --- | --- | --- |
-| ![danistefanovic](https://avatars0.githubusercontent.com/u/1736595?s=40) | [Daniel Stefanovic](https://github.com/danistefanovic) | [🎨](~https://github.com/danistefanovic/build-your-own-x~ "I was inspired by Build your own X") |
+| | | |
