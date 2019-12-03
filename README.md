@@ -76,6 +76,7 @@
 1. [**Website**: quipqiup](https://quipqiup.com/)
 1. [**Website**: CyberChef](https://gchq.github.io/CyberChef/)
 1. [**Website**: HashKiller](https://hashkiller.co.uk/)
+1. [**Website**: DCODE](https://www.dcode.fr/)
 
 
 ### Hack with `Knowledge`
@@ -129,6 +130,7 @@
 1. [**Website**: ZoomEye](https://www.zoomeye.org/)
 1. [**Website**: FOFA](https://fofa.so/)
 1. [**Website**: Rootkit_Pentester CSE](https://cse.google.com/cse?cx=012209864558240645678:orirysy9yqk)
+1. [**Website**: Built with](https://builtwith.com/)
 
 
 #### SQLi
