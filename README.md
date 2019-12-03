@@ -20,7 +20,6 @@
     * [University](#university)
 * [Machine](#hack-their-machine)
     * [Exploitation](#exploitation)
-    * [Privilege Escalation](#privilege-escalation)
 * [Toolkit](#hack-with-this-toolkit)
 * [Web](#hack-their-web)
     * [SQLi](#sqli)
@@ -103,9 +102,6 @@
 #### Exploitation
 
 1. [**Website**: Exploit-DB](https://www.exploit-db.com/)
-
-#### Privilege Escalation
-
 1. [**Script**: LinEnum.sh](https://github.com/rebootuser/LinEnum)
 1. [**Website**: GTFOBins](https://gtfobins.github.io/)
 
