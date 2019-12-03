@@ -20,6 +20,9 @@
     * [University](#university)
 * [Machine](#hack-their-machine)
     * [Exploitation](#exploitation)
+* [Malware](#hack-their-malware)
+    * [Antivirus](#antivirus)
+    * [Sandbox](#sandbox)
 * [Toolkit](#hack-with-this-toolkit)
 * [Web](#hack-their-web)
     * [SQLi](#sqli)
@@ -105,6 +108,21 @@
 1. [**Website**: Exploit-DB](https://www.exploit-db.com/)
 1. [**Script**: LinEnum.sh](https://github.com/rebootuser/LinEnum)
 1. [**Website**: GTFOBins](https://gtfobins.github.io/)
+
+
+### Hack their `Malware`
+
+#### Antivirus
+
+1. [**Website**: VirusTotal](https://www.virustotal.com/)
+1. [**Website**: NoDistribute](https://nodistribute.com/)
+1. [**Website**: AntiScanMe](https://antiscan.me/)
+
+#### Sandbox
+
+1. [**Website**: Hybrid Analisys](https://www.hybrid-analysis.com/)
+1. [**Website**: Any Run](https://app.any.run/)
+1. [**Website**: Valkyrie](https://valkyrie.comodo.com/)
 
 
 ### Hack with this `Toolkit`
