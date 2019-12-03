@@ -155,7 +155,7 @@
 
 1. [**Paper**: Full SQL Injection Tutorial (MySQL)](https://www.exploit-db.com/papers/13045) 
 
-
+---
 
 ## 📋 How to contribute
 
