@@ -97,6 +97,7 @@
 
 1. [**Paper**: Exploit-DB](https://www.exploit-db.com/papers)
 1. [**Repository**: Bugcrowd University](https://github.com/bugcrowd/bugcrowd_university)
+1. [**Webpage**: OWASP Cheatsheet Series](https://cheatsheetseries.owasp.org/)
 1. [**Repository**: Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 1. [**Repository**: h4cker](https://github.com/The-Art-of-Hacking/h4cker)
 
@@ -137,7 +138,7 @@
 #### Dorks
 
 1. [**Website**: Exploit-DB](https://www.exploit-db.com/google-hacking-database)
-1. [**Post**: Rootkit_Pentester :es:](https://underc0de.org/foro/profile/?area=showposts;sa=topics;u=63386)
+1. [**Post**: Rootkit_Pentester 🇪🇸](https://underc0de.org/foro/profile/?area=showposts;sa=topics;u=63386)
 
 #### Search Engine
 
