@@ -100,6 +100,7 @@
 1. [**Webpage**: OWASP Cheatsheet Series](https://cheatsheetseries.owasp.org/)
 1. [**Repository**: Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 1. [**Repository**: h4cker](https://github.com/The-Art-of-Hacking/h4cker)
+1. [**Repository**: Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 1. [**Forum**: TurkHackTeam](https://translate.google.com/translate?sl=tr&tl=en&u=https%3A%2F%2Fwww.turkhackteam.org%2Fguncel-aciklar%2F)
 
 
