@@ -95,6 +95,7 @@
 
 #### University
 
+1. [**Repository**: Security](https://github.com/sushant747/security)
 1. [**Paper**: Exploit-DB](https://www.exploit-db.com/papers)
 1. [**Repository**: Bugcrowd University](https://github.com/bugcrowd/bugcrowd_university)
 1. [**Webpage**: OWASP Cheatsheet Series](https://cheatsheetseries.owasp.org/)
