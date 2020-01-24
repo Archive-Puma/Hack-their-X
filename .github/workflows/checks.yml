@@ -1,0 +1,10 @@
+name: Check status
+on: [push]
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone
+        uses: actions/checkout@v1
+      - name: Check status codes
+        run: sh .ci/checkstatus.sh
