@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src=".github/hacking.gif" alt="SecurityNotFound" width="600">
+  <img src=".github/hacking.gif" alt="KungFury" width="600">
   <br>
   <br>
 </h2>
@@ -25,7 +25,10 @@
     * [Sandbox](#sandbox)
 * [Toolkit](#hack-with-this-toolkit)
 * [Web](#hack-their-web)
+    * [Dorks](#dorks)
+    * [Search Engine](#search-engine)
     * [SQLi](#sqli)
+    * [Endpoints](#endpoints)
 
 **Sections:**
 
@@ -157,7 +160,11 @@
 
 #### SQLi
 
-1. [**Paper**: Full SQL Injection Tutorial (MySQL)](https://www.exploit-db.com/papers/13045) 
+1. [**Paper**: Full SQL Injection Tutorial (MySQL)](https://www.exploit-db.com/papers/13045)
+
+#### Endpoints
+
+1. [**Website**: Beeceptor](https://beeceptor.com/)
 
 ---
 
