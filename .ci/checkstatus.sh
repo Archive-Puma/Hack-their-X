@@ -13,9 +13,10 @@ is_HackTheirX() { link=$(echo "${1}" | tr "[:upper:]" "[:lower:]") && [ -n "${li
 
 # Get the links in the file
 get_links() {
-	file="../README.md"
+	dir=$(dirname "$(readlink -f "${0}")")
+	file="${dir}/../README.md"
 	regex="\(https?://[^\)]+\)"
-	grep -oE "${regex}" ${file} | sed 's/^(\(.*\))$/\1/g'
+	grep -oE "${regex}" "${file}" | sed 's/^(\(.*\))$/\1/g'
 }
 
 # Check if the status code of a link is 200 (OK)
