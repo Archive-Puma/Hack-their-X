@@ -8,7 +8,7 @@
 
 * [Account](#hack-their-account)
     * [Leaks](#leaks)
-* [Anonymous](#hack-being-anonymous-but-not-hacktivist)
+* [Anonymous](#hack-being-anonymous)
     * [Anonymize](#anonymize)
     * [Deanonymize](#deanonymize)
     * [VPS](#vps)
@@ -50,7 +50,7 @@
 1. [**Website**: PwnDB (Clear Web)](https://pwndb2am4tzkvold.tor2web.io/)
 
 
-### Hack being `Anonymous` (but not hacktivist)
+### Hack being `Anonymous`
 
 #### Anonymize
 
