@@ -74,11 +74,11 @@
 1. [**Website**: Shell-Storm](http://shell-storm.org/shellcode/)
 
 
-### Hack their `Cryto`
+### Hack their `Crypto`
 
 1. [**Website**: quipqiup](https://quipqiup.com/)
 1. [**Website**: CyberChef](https://gchq.github.io/CyberChef/)
-1. [**Website**: HashKiller](https://hashkiller.co.uk/)
+1. [**Website**: CrackStation](https://crackstation.net/)
 1. [**Website**: DCODE](https://www.dcode.fr/)
 
 
