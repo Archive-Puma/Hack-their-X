@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src=".github/hacking.gif" alt="SecurityNotFound" width="600">
+  <img src=".github/hacking.gif" alt="KungFury" width="600">
   <br>
   <br>
 </h2>
@@ -8,7 +8,7 @@
 
 * [Account](#hack-their-account)
     * [Leaks](#leaks)
-* [Anonymous](#hack-being-anonymous-but-not-hacktivist)
+* [Anonymous](#hack-being-anonymous)
     * [Anonymize](#anonymize)
     * [Deanonymize](#deanonymize)
     * [VPS](#vps)
@@ -25,7 +25,10 @@
     * [Sandbox](#sandbox)
 * [Toolkit](#hack-with-this-toolkit)
 * [Web](#hack-their-web)
+    * [Dorks](#dorks)
+    * [Search Engine](#search-engine)
     * [SQLi](#sqli)
+    * [Endpoints](#endpoints)
 
 **Sections:**
 
@@ -47,7 +50,7 @@
 1. [**Website**: PwnDB (Clear Web)](https://pwndb2am4tzkvold.tor2web.io/)
 
 
-### Hack being `Anonymous` (but not hacktivist)
+### Hack being `Anonymous`
 
 #### Anonymize
 
@@ -92,14 +95,18 @@
 1. [**Website**: PicoCTF](https://picoctf.com/)
 1. [**Website**: OverTheWire](https://overthewire.org/wargames/)
 1. [**Website**: Atenea](https://atenea.ccn-cert.cni.es/)
+1. [**Website**: GoogleCTF](https://capturetheflag.withgoogle.com/)
 
 #### University
 
+1. [**Repository**: Security](https://github.com/sushant747/security)
 1. [**Paper**: Exploit-DB](https://www.exploit-db.com/papers)
 1. [**Repository**: Bugcrowd University](https://github.com/bugcrowd/bugcrowd_university)
 1. [**Webpage**: OWASP Cheatsheet Series](https://cheatsheetseries.owasp.org/)
 1. [**Repository**: Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 1. [**Repository**: h4cker](https://github.com/The-Art-of-Hacking/h4cker)
+1. [**Repository**: Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+1. [**Forum**: TurkHackTeam](https://translate.google.com/translate?sl=tr&tl=en&u=https%3A%2F%2Fwww.turkhackteam.org%2Fguncel-aciklar%2F)
 
 
 ### Hack their `Machine`
@@ -154,7 +161,11 @@
 
 #### SQLi
 
-1. [**Paper**: Full SQL Injection Tutorial (MySQL)](https://www.exploit-db.com/papers/13045) 
+1. [**Paper**: Full SQL Injection Tutorial (MySQL)](https://www.exploit-db.com/papers/13045)
+
+#### Endpoints
+
+1. [**Website**: Beeceptor](https://beeceptor.com/)
 
 ---
 
