@@ -46,6 +46,7 @@
 #### Leaks
 
 1. [**Website**: Have I been pwned?](https://haveibeenpwned.com/)
+1. [**Website**: DeHashed](https://www.dehashed.com/)
 1. [**Website**: PwnDB (Deep Web)](https://pwndb2am4tzkvold.onion)
 1. [**Website**: PwnDB (Clear Web)](https://pwndb2am4tzkvold.tor2web.io/)
 
