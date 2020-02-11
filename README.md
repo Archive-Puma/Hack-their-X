@@ -83,7 +83,7 @@
 1. [**Website**: CyberChef](https://gchq.github.io/CyberChef/)
 1. [**Website**: CrackStation](https://crackstation.net/)
 1. [**Website**: DCODE](https://www.dcode.fr/)
-1. [**Website**: Vigenère Cipher Codebreaker](https://www.mygeocachingprofile.com/codebreaker.vigenerecipher.aspx)
+1. [**Website**: Vigenère Solver (no key)](https://https://www.guballa.de/vigenere-solver)
 
 
 ### Hack with `Knowledge`
